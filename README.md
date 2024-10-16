@@ -32,17 +32,9 @@ Python
 
 Clone o repositório:
 
-bash
-
-**Copiar código**
-
 git clone https://github.com/DevVictorF/Calculadora-IMC
 
 Navegue até a pasta do projeto:
-
-bash
-
-**Copiar código**
 
 cd calculadora-imc
 
@@ -58,18 +50,16 @@ Se você deseja contribuir com o projeto, sinta-se à vontade para fazer um fork
 
 Faça um fork do repositório.
 
-Crie uma nova branch para sua feature:
-
-bash
-
-**Copiar código**
+-Crie uma nova branch para sua feature:
 
 git checkout -b minha-feature
 
-Faça suas alterações e commit:
-
-bash
-
-**Copiar código**
+-Faça suas alterações e commit:
 
 git commit -m "Adiciona nova funcionalidade"
+
+-Envie para o repositório remoto:
+
+git push origin minha-feature
+
+-Abra um pull request.
