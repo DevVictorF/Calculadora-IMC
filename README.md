@@ -36,7 +36,7 @@ bash
 
 **Copiar código**
 
-git clone https://github.com/seuusuario/calculadora-imc.git
+git clone https://github.com/DevVictorF/Calculadora-IMC
 
 Navegue até a pasta do projeto:
 
